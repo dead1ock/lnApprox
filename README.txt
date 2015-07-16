@@ -1,0 +1,1 @@
+A simple program I wrote for extra credit in Calculus II which uses the integral from 1 to x of 1/x to estimate the value of ln(x). The program can estimate the value of ln(x) using the simpsons, midpoint, or trapizoid methods.
